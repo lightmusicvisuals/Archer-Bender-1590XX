@@ -1,6 +1,10 @@
 # Archer-Bender-1590XX
 Expansion of the Archer Experimenter with layout accommodating 4 blocks of controls. This board fits nicely in a Hammond 1590XX enclosure. There is no drill template so use the board to make one before you build it.
 
+Tracks have been designed to mount the switches and pots on the back (non-printed) side of the pcb. Populate the circuit, then fit pots and switches to enclosure or panel before soldering in place.
+
+Transistors should be 2n3906/2n3904 or equivalent.
+
 All pots 9mm Alpha or equivalent. "ON" and "DEST" toggle switches are SPDT ON-ON variety. "MOD" toggle switch should be SPDT ON-OFF-ON but ON-ON will also work.
 
 ENHANCE potentiometer value to taste...1k and 10k work well. Choose value for ?K resistor after installation. I have built units with 10K ENHANCE pot and 10K resistor as well as 1K ENHANCE pot and 10R resistor.

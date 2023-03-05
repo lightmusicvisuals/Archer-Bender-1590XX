@@ -15,4 +15,4 @@ The "MOD" switch toggles between components populated in the "MOD" pads. The cen
 
 VCC between 9vdc and 12vdc have been tested. WARNING: Q3C bend point is continuous with VCC. I haven't blown anything up yet but use this in your bends at your own risk. 
 
-Please don't sell PCBs or assembled units.
+Please don't sell these PCBs or assembled units.

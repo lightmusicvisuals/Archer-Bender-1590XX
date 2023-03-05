@@ -1,4 +1,7 @@
 # Archer-Bender-1590XX
+
+This project is meant for DIY purposes only. In that spirit, please don't sell bare pcbs or assembled units. If you order and have extras, give them to your friends.
+
 Expansion of the Archer Experimenter with layout accommodating 4 blocks of controls. This board fits nicely in a Hammond 1590XX enclosure. There is no drill template so use the board to make one before you build it.
 
 Tracks have been designed to mount the switches and pots on the back (non-printed) side of the pcb. Populate the circuit, then fit pots and switches to enclosure or panel before soldering in place.
@@ -18,5 +21,3 @@ The "P" pads are optional and can be used to bypass the "ON" switches with a pus
 The "MOD" switch toggles between components populated in the "MOD" pads. The center "MOD" pad will be active regardless of toggle position. The pads above "MOD" area can be used to accommodate larger format capacitors or inductors.
 
 VCC between 9vdc and 12vdc have been tested. WARNING: Q3C bend point is continuous with VCC. I haven't blown anything up yet but use this in your bends at your own risk. 
-
-Please don't sell these PCBs or assembled units.
